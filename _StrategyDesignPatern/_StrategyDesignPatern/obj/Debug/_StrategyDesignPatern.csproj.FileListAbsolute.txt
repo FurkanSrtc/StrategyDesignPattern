@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\bin\Debug\_StrategyDesignPatern.exe.config
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\bin\Debug\_StrategyDesignPatern.exe
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\bin\Debug\_StrategyDesignPatern.pdb
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.Properties.Resources.resources
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.exe
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.pdb
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.Form1.resources
+C:\Users\user\Desktop\Nesne Tabanlı Programlama\Grup 2\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.Images.resources
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\bin\Debug\_StrategyDesignPatern.exe.config
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.exe
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.pdb
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\bin\Debug\_StrategyDesignPatern.exe
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\bin\Debug\_StrategyDesignPatern.pdb
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.Form1.resources
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.Images.resources
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.Properties.Resources.resources
+C:\Users\Furkan\Desktop\OOP\StrategyDesignPattern\_StrategyDesignPatern\_StrategyDesignPatern\obj\Debug\_StrategyDesignPatern.csproj.GenerateResource.Cache
